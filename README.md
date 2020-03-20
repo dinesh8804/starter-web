@@ -1,11 +1,13 @@
 # Starter Web Project
 
-This is as imple as project.
+This is a simple project.
 
 ## Introduction
 
 ## Purpose
 
 ## Deployment
+
+This
 
 #### How To Contribute
